@@ -5,7 +5,7 @@ Home: https://github.com/mattflor/chorddiag
 
 Package license: GPL (>= 3)
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: R interface to D3 chord diagrams.
 
