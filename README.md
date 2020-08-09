@@ -3,9 +3,9 @@ About r-chorddiag
 
 Home: https://github.com/mattflor/chorddiag
 
-Package license: GPL (>= 3)
+Package license: GPL-3.0-or-later
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: R interface to D3 chord diagrams.
 
