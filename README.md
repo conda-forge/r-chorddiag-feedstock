@@ -1,11 +1,11 @@
-About r-chorddiag
-=================
+About r-chorddiag-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-chorddiag-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mattflor/chorddiag
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-chorddiag-feedstock/blob/main/LICENSE.txt)
 
 Summary: R interface to D3 chord diagrams.
 
